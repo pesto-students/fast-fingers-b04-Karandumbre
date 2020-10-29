@@ -1,0 +1,3 @@
+export const USER_SCREEN = "USER_SCREEN";
+export const USER_PROPERTIES = "USER_PROPERTIES";
+export const USER_HISTORY = "USER_HISTORY";
